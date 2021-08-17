@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Package json for Jest Another RPG",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsengu/jest-another-RPG.git"
+  },
+  "author": "Hok S. Uy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hsengu/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/hsengu/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
